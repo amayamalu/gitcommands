@@ -1,3 +1,2 @@
-hello python
-how are you?
-python django
+hello
+python
